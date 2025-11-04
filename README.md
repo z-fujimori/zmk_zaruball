@@ -2,6 +2,7 @@
 自作キーボードZaruBallのファームウェアです。<br>
 自分の好みにキーマップを編集したらActionからWorkflowを実行してファームウェアをビルドしてください。<br>
 キーマップの編集はkeymap editor, ZMK Studio両方対応しています。
+元リポジトリ：https://github.com/ImSota/zmk-config-ZaruBall/tree/ZaruBall-v3.x
 
 ## ビルド方法
 既にデフォルトのキーマップは作成してあります。<br>
